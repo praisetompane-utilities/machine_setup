@@ -3,4 +3,4 @@ echo "Installing docker desktop"
 echo "Done Installing"
 
 # VM locaition
-# Users/praisetompane/Library/Containers/com.docker.docker/Data/vms/
+# Users/{user}/Library/Containers/com.docker.docker/Data/vms/

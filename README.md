@@ -1,18 +1,27 @@
 # machine_setup
+![build status](https://github.com/praisetompane/machine_setup/actions/workflows/machine_setup.yaml/badge.svg) <br>
 
-a central repo to setup machine.
+## Objectives
+An automated repo to setup machine.
 
-## dependencies:
+## Dependencies
 ```shell
 ./brew.sh
 ```
 
-## setup instructions:
+## Usage
+- Install all packages
+```shell
+./install.sh all
+```
+
+- Install specific package
 ```shell
 # Please substitute package_name with a package(i.e. folder).
 ./install.sh package_name
 ```
-### example:
+### Example:
 ```shell
+# Install text_editors package
 ./install.sh text_editors
 ```

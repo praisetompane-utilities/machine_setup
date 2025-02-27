@@ -1,0 +1,51 @@
+# abbreviations
+svg
+
+
+# acronyms or abbreviations
+MYINC
+env
+
+# authors
+Kernighan
+Ritchie
+praisetompane
+tecnickcom
+
+
+# concepts
+
+# domain specific
+df
+dl
+gbst
+goaafl
+grlos
+rebase
+repo
+
+# course codes:
+
+
+# technology:
+yaml
+llvm
+pyspelling
+zshell
+
+# institutions:
+freecodecamp
+roadmap
+pypi
+hackerrank
+
+
+# urls:
+https
+src
+conventionalcommits
+README
+CGCn
+FOfs
+alldev
+dev
